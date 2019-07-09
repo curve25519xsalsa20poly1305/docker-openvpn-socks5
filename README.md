@@ -9,6 +9,7 @@ Supports latest Docker for both Windows, Linux, and MacOS.
 * [openvpn-tunnel](https://hub.docker.com/r/curve25519xsalsa20poly1305/openvpn-tunnel/) ([GitHub](https://github.com/curve25519xsalsa20poly1305/docker-openvpn-tunnel)) - Wraps your program with OpenVPN network tunnel fully contained in Docker. It's the base image of this project.
 * [openvpn-socks5](https://hub.docker.com/r/curve25519xsalsa20poly1305/openvpn-socks5/) ([GitHub](https://github.com/curve25519xsalsa20poly1305/docker-openvpn-socks5)) - This project.
 * [shadowsocksr-tunnel](https://hub.docker.com/r/curve25519xsalsa20poly1305/shadowsocksr-tunnel/) ([GitHub](https://github.com/curve25519xsalsa20poly1305/docker-shadowsocksr-tunnel)) - Wraps your program with ShadowsocksR network tunnel fully contained in Docker. Also exposes SOCKS5 server to host machine.
+* [shadowsocksr-aria2](https://hub.docker.com/r/curve25519xsalsa20poly1305/shadowsocksr-aria2/) ([GitHub](https://github.com/curve25519xsalsa20poly1305/docker-shadowsocksr-aria2)) - Extends `shadowsocksr-tunnel` with `aria2` support.
 
 ## What it does?
 
